@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "scripts": {
+    "test": "tsx --test *.test.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^24.9.1",
+    "tsx": "^4.7.0"
+  }
+}
